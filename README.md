@@ -1,10 +1,10 @@
 # Mario-Simulator
 
-RUN
+To Run
 - g++ main.cpp World.cpp Mario.cpp -o program
 - ./program
 
-INFO
+Variable Information
 - H: represents mario's current position
 - x : represents Empty spaces
 - g : represents Goomba
